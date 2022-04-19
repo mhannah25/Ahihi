@@ -15,3 +15,4 @@ const CONFIG = {
     btnAccept: 'Oke <3',
     messLink: 'https://www.facebook.com/messages/t/100079674971138' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
+ 
