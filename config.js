@@ -1,20 +1,17 @@
 const CONFIG = {
     titleWeb: "Gửi cho Gia Trạch nè <3",
     introTitle: 'Xin chào người bạn yêu dấu của mìnhhh',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Nói bạn nghe này nè. Ngại quá à hihi :>`,
     btnIntro: 'Ehehee',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    title: 'Bạn thích mình đúng hong? 😘',
+    desc: 'Ý là thích xem mình làm khùng làm điên á =)))',
+    btnYes: 'Tất nhiên là thích rồi <3',
+    btnNo: 'Không, mình không thích bạn 🙄',
+    question: 'Trên thế giới có hơn 7 tỉ người, tại sao bạn lại nói chuyện với mình? Vì mình quá là dễ thưn có đúng hong?',
+    btnReply: 'Send with luv <3',
+    reply: 'Đúng vậy, bạn là dễ thương nhất rồi <333 =)))))))',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messDesc: 'Học hành thi cử vất vả quá thì về tâm sự với mình nhé? Hôm nào đẹp trời thì mình lại kể chuyện cho bạn nghe nha?',
+    btnAccept: 'Oke <3',
+    messLink: 'https://www.facebook.com/messages/t/100079674971138' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
